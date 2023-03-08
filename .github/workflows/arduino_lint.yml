@@ -4,7 +4,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Arduino Lint Check
-      - uses: actions/checkout@v3
-      - uses: arduino/arduino-lint-action@v1
+        uses: actions/checkout@v3
+        uses: arduino/arduino-lint-action@v1
         with:
-          compliance: specification
+            compliance: specification

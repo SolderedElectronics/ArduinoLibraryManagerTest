@@ -8,10 +8,8 @@ jobs:
     steps:
       - name: Checkout dev branch
         uses: actions/checkout@v3
-      - name: Arduino Lint Check
-        uses: arduino/arduino-lint-action@v1
+      - uses: arduino/arduino-lint-action@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           compliance: specification
           project-type: library
           recursive: true

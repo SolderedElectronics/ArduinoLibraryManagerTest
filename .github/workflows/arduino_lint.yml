@@ -1,4 +1,7 @@
-on: [push, pull_request]
+name: Arduino Library Manager Compatibility
+
+on: [push]
+
 jobs:
   lint:
     runs-on: ubuntu-latest
@@ -8,6 +11,7 @@ jobs:
       - name: Arduino Lint Check
         uses: arduino/arduino-lint-action@v1
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           compliance: specification
           project-type: library
           recursive: true

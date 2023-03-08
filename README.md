@@ -1,7 +1,7 @@
 # Temperature and humidity sensor SHTC3 breakout Arduino library
 
 [![Make docs and publish to GitHub Pages](https://github.com/SolderedElectronics/ArduinoLibraryTest/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronicsArduinoLibraryTest/actions/workflows/make_docs.yml)
-[![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/ArduinoLibraryTest/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronicsArduinoLibraryTest/actions/workflows/arduino_lint.yml)
+[![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/ArduinoLibraryTest/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/ArduinoLibraryTest/actions/workflows/arduino_lint.yml)
 
 | ![Temperature and humidity sensor SHTC3 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------------------------------------------------------------------: |

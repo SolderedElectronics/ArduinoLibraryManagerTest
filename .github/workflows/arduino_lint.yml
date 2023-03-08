@@ -9,3 +9,5 @@ jobs:
         uses: arduino/arduino-lint-action@v1
         with:
           compliance: specification
+          project-type: library
+          recursive: true

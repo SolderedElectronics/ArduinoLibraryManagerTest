@@ -1,6 +1,8 @@
 # Temperature and humidity sensor SHTC3 breakout Arduino library
 
-[![Make docs and publish to GitHub Pages](https://github.com/SolderedElectronics/Soldered-SHTC3-Temperature-Humidity-Sensor-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-SHTC3-Temperature-Humidity-Sensor-Arduino-Library/actions/workflows/make_docs.yml)
+[![Make docs and publish to GitHub Pages](https://github.com/SolderedElectronics/ArduinoLibraryTest/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronicsArduinoLibraryTest/actions/workflows/make_docs.yml)
+
+[![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/ArduinoLibraryTest/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronicsArduinoLibraryTest/actions/workflows/arduino_lint.yml)
 
 | ![Temperature and humidity sensor SHTC3 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------------------------------------------------------------------: |
@@ -42,7 +44,7 @@ Access Arduino library documentation [here](https://SolderedElectronics.github.i
 
 The library is compatible with board & microcontroller families shown in green below:
 
-[![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-SHTC3-Temperature-Humidity-Sensor-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/SolderedElectronics/Soldered-SHTC3-Temperature-Humidity-Sensor-Arduino-Library/actions/workflows/compile_test.yml)
+[![Compile Sketches](http://github-actions.40ants.com/SolderedElectronics/ArduinoLibraryTest/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/SolderedElectronics/ArduinoLibraryTest/actions/workflows/compile_test.yml)
 
 ### About Soldered
 

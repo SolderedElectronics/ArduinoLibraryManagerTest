@@ -10,7 +10,6 @@ jobs:
         uses: actions/checkout@v3
       - uses: arduino/arduino-lint-action@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           compliance: specification
           project-type: library
           recursive: true

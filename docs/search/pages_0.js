@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['naziv_20proizvoda_20arduino_20library_0',['NAZIV PROIZVODA Arduino library',['../index.html',1,'']]]
+  ['temperature_20and_20humidity_20sensor_20shtc3_20breakout_20arduino_20library_0',['Temperature and humidity sensor SHTC3 breakout Arduino library',['../index.html',1,'']]]
 ];
